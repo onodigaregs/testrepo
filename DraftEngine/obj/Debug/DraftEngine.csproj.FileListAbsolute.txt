@@ -1,0 +1,15 @@
+c:\users\fas1175\documents\visual studio 2017\Projects\DraftEngine\DraftEngine\bin\Debug\DraftEngine.dll
+c:\users\fas1175\documents\visual studio 2017\Projects\DraftEngine\DraftEngine\bin\Debug\DraftEngine.pdb
+c:\users\fas1175\documents\visual studio 2017\Projects\DraftEngine\DraftEngine\obj\Debug\DraftEngine.csprojResolveAssemblyReference.cache
+c:\users\fas1175\documents\visual studio 2017\Projects\DraftEngine\DraftEngine\obj\Debug\DraftEngine.dll
+c:\users\fas1175\documents\visual studio 2017\Projects\DraftEngine\DraftEngine\obj\Debug\DraftEngine.pdb
+C:\Users\fas1175\Documents\Visual Studio 2017\Projects\DraftEngine\DraftEngine\bin\Debug\DraftEngine.dll.config
+C:\Users\fas1175\Documents\Visual Studio 2017\Projects\DraftEngine\DraftEngine\bin\Debug\EntityFramework.dll
+C:\Users\fas1175\Documents\Visual Studio 2017\Projects\DraftEngine\DraftEngine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fas1175\Documents\Visual Studio 2017\Projects\DraftEngine\DraftEngine\bin\Debug\System.Data.SQLite.dll
+C:\Users\fas1175\Documents\Visual Studio 2017\Projects\DraftEngine\DraftEngine\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\fas1175\Documents\Visual Studio 2017\Projects\DraftEngine\DraftEngine\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\fas1175\Documents\Visual Studio 2017\Projects\DraftEngine\DraftEngine\bin\Debug\EntityFramework.xml
+C:\Users\fas1175\Documents\Visual Studio 2017\Projects\DraftEngine\DraftEngine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fas1175\Documents\Visual Studio 2017\Projects\DraftEngine\DraftEngine\bin\Debug\System.Data.SQLite.xml
+C:\Users\fas1175\Documents\Visual Studio 2017\Projects\DraftEngine\DraftEngine\bin\Debug\System.Data.SQLite.dll.config
